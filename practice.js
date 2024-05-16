@@ -139,8 +139,8 @@
 // }
 
 
-// let nsp=0;
-// let nst=4;
+// let nsp=0
+// let nst=4`
 // for(let row=1;row<=5;row++){
 //     for(let sp=1;sp<=nsp;sp++){
 //         process.stdout.write(" ");
@@ -508,5 +508,5 @@ console.log(rv);
 
 // console.log(arr.join(" "));
 
-
+// MY NAME IS HARSHA 
 
